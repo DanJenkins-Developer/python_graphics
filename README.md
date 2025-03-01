@@ -24,3 +24,8 @@ pip install -r requirements.txt
 ```
 python main.py
 ```
+
+2.5 Alternativly, build an exe
+```
+pyinstaller .\src\main.py --noconsole --distpath .\application\ --specpath .\application\ --workpath .\application\ --onefile
+```
