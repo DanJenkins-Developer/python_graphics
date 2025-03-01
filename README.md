@@ -1,2 +1,2 @@
 # python_graphics
-Having fun with python graphics 
+Having fun with graphics using Python
